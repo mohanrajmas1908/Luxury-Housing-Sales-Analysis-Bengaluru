@@ -3,8 +3,8 @@ Develop a full-scale real estate analytics pipeline using Python for advanced da
 🏗️ Enterprise-Grade Real Estate Analytics Pipeline
 Objective: Design and implement a comprehensive real estate analytics solution that mirrors a production-grade data pipeline used in enterprise environments. The project will leverage a large-scale housing dataset containing over 100,000 records to demonstrate robust data engineering, advanced analytics, and interactive reporting.
 
-Scope of Work:
-
+**Scope of Work:
+**
 Advanced Data Cleaning & Preprocessing (Python):
 
 Utilize Python and pandas to perform rigorous data wrangling, including:
