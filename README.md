@@ -45,4 +45,3 @@ Apply best practices in visual storytelling and stakeholder-friendly annotation.
 
 Outcome: A fully functional analytics pipeline that demonstrates end-to-end integration — from raw data ingestion and transformation to SQL-based storage and business intelligence visualization. This solution will serve as a blueprint for scalable, enterprise-ready real estate analytics platforms.
 
-Let me know if you'd like help drafting the actual Python scripts, SQL schema, or Power BI layout — we can build this step-by-step.
