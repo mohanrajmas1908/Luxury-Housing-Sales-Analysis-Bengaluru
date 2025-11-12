@@ -47,6 +47,4 @@ Perform extensive data wrangling and quality validation using **Python** and **p
 - **Power BI** – Interactive reporting, KPI visualization, and dashboard creation.  
 - **DAX / Power Query** – For advanced calculations, measures, and relationships.
 
----
 
-## 🧩 Project Workflow
