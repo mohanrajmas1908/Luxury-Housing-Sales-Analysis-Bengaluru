@@ -1,47 +1,52 @@
-# Luxury-Housing-Sales-Analysis-Bengaluru
-Develop a full-scale real estate analytics pipeline using Python for advanced data cleaning, load the refined dataset into a SQL database, and build a dynamic Power BI dashboard via direct SQL connection. This solution replicates an enterprise-grade workflow for scalable, real-time housing market analysis using a dataset of 100,000+ records.
-🏗️ Enterprise-Grade Real Estate Analytics Pipeline
-Objective: Design and implement a comprehensive real estate analytics solution that mirrors a production-grade data pipeline used in enterprise environments. The project will leverage a large-scale housing dataset containing over 100,000 records to demonstrate robust data engineering, advanced analytics, and interactive reporting.
+# 🏗️ Luxury Housing Sales Analysis – Bengaluru
 
-Scope of Work:
+## 🎯 Project Objective
+Design and implement a **comprehensive real estate analytics solution** that replicates a **production-grade data pipeline** used in enterprise environments.  
+The project leverages a large-scale **Bengaluru luxury housing dataset (100,000+ records)** to demonstrate **robust data engineering**, **advanced analytics**, and **interactive business intelligence reporting**.
 
-Advanced Data Cleaning & Preprocessing (Python):
+---
 
-Utilize Python and pandas to perform rigorous data wrangling, including:
+## 📌 Scope of Work
 
-Missing value imputation
+### 🧹 Advanced Data Cleaning & Preprocessing (Python)
+Perform extensive data wrangling and quality validation using **Python** and **pandas**, including:
+- Missing value imputation  
+- Outlier detection and treatment  
+- Feature engineering and normalization  
+- Validation of data integrity and consistency  
+- Modular workflow design for scalability and reproducibility  
 
-Outlier detection and treatment
+### 🗄️ Data Storage & Integration (SQL)
+- Load the refined dataset into a **structured SQL database** (e.g., PostgreSQL or SQL Server).  
+- Design **normalized schemas** and **indexing strategies** for optimized querying.  
+- Ensure **secure, high-performance connectivity** for analytical and reporting layers.  
 
-Feature engineering and normalization
+### 📊 Interactive Dashboard Development (Power BI)
+- Establish a **direct SQL connection** for real-time data refresh and analysis.  
+- Build a dynamic Power BI dashboard that visualizes:
+  - **Key Performance Indicators (KPIs)**  
+  - **Regional price trends**  
+  - **Property type distributions**  
+  - **Time-series and forecast analytics**
+- Apply **data storytelling best practices** with intuitive visuals and contextual annotations for decision-makers.
 
-Validation of data integrity and consistency
+---
 
-Modularize the workflow for scalability and reproducibility.
+## 🧰 Tools & Technologies
 
-Data Storage & Integration (SQL):
+### 🐍 Data Processing & Engineering
+- **Python** – Core programming language for data cleaning and analysis.  
+- **pandas** – For advanced data manipulation and preprocessing.  
+- **NumPy** – For numerical computation and feature scaling.
 
-Load the cleaned dataset into a structured SQL database (e.g., PostgreSQL or SQL Server).
+### 🗃️ Database Management
+- **SQL / PostgreSQL / SQL Server** – Structured storage and querying of refined datasets.  
+- **SQLAlchemy** – For Python-to-database connectivity and automation.
 
-Design normalized schemas and indexing strategies for efficient querying.
+### 📈 Business Intelligence & Visualization
+- **Power BI** – Interactive reporting, KPI visualization, and dashboard creation.  
+- **DAX / Power Query** – For advanced calculations, measures, and relationships.
 
-Ensure secure and performant access for downstream analytics tools.
+---
 
-Interactive Dashboard Development (Power BI):
-
-Establish a direct SQL connection in Power BI for real-time data access.
-
-Build a dynamic dashboard showcasing:
-
-Key performance indicators (KPIs)
-
-Regional price trends
-
-Property type distributions
-
-Time-series analysis and forecasting
-
-Apply best practices in visual storytelling and stakeholder-friendly annotation.
-
-Outcome: A fully functional analytics pipeline that demonstrates end-to-end integration — from raw data ingestion and transformation to SQL-based storage and business intelligence visualization. This solution will serve as a blueprint for scalable, enterprise-ready real estate analytics platforms.
-
+## 🧩 Project Workflow
